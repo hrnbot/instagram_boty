@@ -1,13 +1,4 @@
-//imacros-js:showsteps no
 
-/*
-Created by Bot Solutions
-http://www.bot.solutions
-skype: bot.solutions
-email: info@bot.solutions
-*/
-
-/* global iimGetExtract */
 
 /*Instagram*/ {
     function Instagram() {
